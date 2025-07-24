@@ -39,7 +39,7 @@ public class stringMet {
         }else
             System.out.println("hello, " + name);
         
-        //cantain: chua
+        //c0=ontain: chua
         if(name.contains(" ")){
             System.out.println("Your name contains a space");
         }
