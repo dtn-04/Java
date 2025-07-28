@@ -1,5 +1,4 @@
 
-
 public class Car {
     String make = "Bugati";
     String model = "VietNam";
